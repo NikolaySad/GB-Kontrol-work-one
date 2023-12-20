@@ -1,0 +1,15 @@
+C:\Users\Коленька\Desktop\kontrol\bin\Debug\net6.0\kontrol.exe
+C:\Users\Коленька\Desktop\kontrol\bin\Debug\net6.0\kontrol.deps.json
+C:\Users\Коленька\Desktop\kontrol\bin\Debug\net6.0\kontrol.runtimeconfig.json
+C:\Users\Коленька\Desktop\kontrol\bin\Debug\net6.0\kontrol.dll
+C:\Users\Коленька\Desktop\kontrol\bin\Debug\net6.0\kontrol.pdb
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\kontrol.csproj.AssemblyReference.cache
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\kontrol.AssemblyInfoInputs.cache
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\kontrol.AssemblyInfo.cs
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\kontrol.dll
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\refint\kontrol.dll
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\kontrol.pdb
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\kontrol.genruntimeconfig.cache
+C:\Users\Коленька\Desktop\kontrol\obj\Debug\net6.0\ref\kontrol.dll
